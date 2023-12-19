@@ -1,4 +1,4 @@
 # School-violence-detection
 # Demo for research
-https://github.com/tanhhkhcndn/school-violence-detection/edit/mainfight1.gif
-https://github.com/tanhhkhcndn/school-violence-detection/edit/mainfight2.gif
+![school-violence-detection](https://github.com/tanhhkhcndn/school-violence-detection/edit/mainfight1.gif)
+![school-violence-detection](https://github.com/tanhhkhcndn/school-violence-detection/edit/mainfight2.gif)
